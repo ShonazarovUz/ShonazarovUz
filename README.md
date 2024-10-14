@@ -5,7 +5,7 @@
 
 ### My topic
 ---
-
+```
 - 🔭 I’m currently working on **Test**
 
 - 🌱 I’m currently learning **Laravel**
@@ -15,6 +15,7 @@
 - 📫 How to reach me **shonazarovnasriddinuz@gmail.com**
 
 - ⚡ Fun fact **I am Developer and I am Freelancer**
+```
 
 ---
 
